@@ -1,1 +1,3 @@
-# how-to-learn-faster
+# How to learn faster
+
+Mind maps about learn faster
