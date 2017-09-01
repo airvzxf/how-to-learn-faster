@@ -200,6 +200,29 @@
 <font NAME="SansSerif" SIZE="14"/>
 </node>
 </node>
+<node COLOR="#00b439" CREATED="1504229898716" ID="ID_29432110" MODIFIED="1504229906117" TEXT="Time to learn">
+<edge STYLE="bezier" WIDTH="thin"/>
+<font NAME="SansSerif" SIZE="16"/>
+<node COLOR="#990000" CREATED="1504229906120" ID="ID_1753438138" MODIFIED="1504229909647" TEXT="Input time">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1504229909649" ID="ID_1638666609" MODIFIED="1504229928265" TEXT="Time reading or watching the information"/>
+</node>
+<node COLOR="#990000" CREATED="1504229931887" ID="ID_1322622729" MODIFIED="1504229936516" TEXT="Proccessing time">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1504229954555" ID="ID_1984101123" MODIFIED="1504229983679" TEXT="Time to take notes, check the reviews, memorize and learning"/>
+<node COLOR="#111111" CREATED="1504229990728" ID="ID_924859846" MODIFIED="1504230068322" TEXT="How to estimate the investment time?&#xa;Rate from 1 to 5">
+<node COLOR="#111111" CREATED="1504230007326" ID="ID_456959485" MODIFIED="1504230124751" TEXT="1. Your knowledge in this subject&#xa;(5 if you have a lot knowledge)"/>
+<node COLOR="#111111" CREATED="1504230126711" ID="ID_840025587" MODIFIED="1504230278307" TEXT="2. Expertise goal&#xa;(1. Newbie, 5. expert)"/>
+<node COLOR="#111111" CREATED="1504230282505" ID="ID_1513957760" MODIFIED="1504230330616" TEXT="3. Density in the table content&#xa;(5. a lot, 1. few)"/>
+<node COLOR="#111111" CREATED="1504232870067" ID="ID_990173703" MODIFIED="1504233247645" TEXT="4. Get the processing&#xa;time coefficient (PCT)">
+<node COLOR="#111111" CREATED="1504233216168" ID="ID_359455103" MODIFIED="1504233222993" TEXT="1. Sum all this numbers"/>
+<node COLOR="#111111" CREATED="1504233281542" ID="ID_862544829" MODIFIED="1504233295382" TEXT="2. And divide by 3"/>
+</node>
+<node COLOR="#111111" CREATED="1504233311829" ID="ID_1024147676" MODIFIED="1504233331071" TEXT="Input time * PCT"/>
+<node COLOR="#111111" CREATED="1504233332767" ID="ID_646651072" MODIFIED="1504233521545" TEXT="Example:&#xa;(3+5+5) = 13&#xa;PCT = 13/3 = 4.33&#xa;Input time = 12.5&#xa;&#xa;Processing time = 12.5*4.33&#xa;= 54.13 hrs"/>
+</node>
+</node>
+</node>
 </node>
 <node COLOR="#0033ff" CREATED="1503811001910" ID="ID_1481329864" MODIFIED="1503851398164" POSITION="right" TEXT="Focus learning">
 <edge STYLE="sharp_bezier" WIDTH="8"/>
@@ -260,6 +283,41 @@
 <font NAME="SansSerif" SIZE="12"/>
 </node>
 </node>
+</node>
+<node COLOR="#990000" CREATED="1503888980234" ID="ID_59993385" MODIFIED="1503889006324" TEXT="Environment">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1503889121803" ID="ID_1028675436" MODIFIED="1503889793843" TEXT="Find a place where you focus at all,&#xa;everyone have the specific place&#xa;for example the library, coffee, park"/>
+</node>
+<node COLOR="#990000" CREATED="1503889007582" ID="ID_1802848376" MODIFIED="1503889010487" TEXT="Time">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1503889012240" ID="ID_687550082" MODIFIED="1503889046099" TEXT="It&apos;s better study at morning because the brain is fresh"/>
+<node COLOR="#111111" CREATED="1503889527839" ID="ID_408180706" MODIFIED="1503889534003" TEXT="Loosing memory">
+<node COLOR="#111111" CREATED="1503889536092" ID="ID_666321550" MODIFIED="1503890111569" TEXT="The brain loses 70% of learning after 10 hours "/>
+<node COLOR="#111111" CREATED="1503889914028" ID="ID_351504606" MODIFIED="1503890045111" TEXT="30% of what is learned is lost in 5 days "/>
+<node COLOR="#111111" CREATED="1503890142140" ID="ID_1360188074" MODIFIED="1503890144802" TEXT="Solution">
+<node COLOR="#111111" CREATED="1503890148243" ID="ID_397335574" MODIFIED="1503890183651" TEXT="Retrieval and review nights">
+<node COLOR="#111111" CREATED="1503890282085" ID="ID_96212258" MODIFIED="1503890489815" TEXT="1. Learn something"/>
+<node COLOR="#111111" CREATED="1503890292053" ID="ID_1322110848" MODIFIED="1503890495183" TEXT="2. Create notes"/>
+<node COLOR="#111111" CREATED="1503890297602" ID="ID_141027737" MODIFIED="1503890502454" TEXT="3. Create trigger cards"/>
+<node COLOR="#111111" CREATED="1503890305436" ID="ID_663557340" MODIFIED="1503890506945" TEXT="4. Before to sleep answer the cards"/>
+<node COLOR="#111111" CREATED="1503890353025" ID="ID_1374100307" MODIFIED="1503890676894" TEXT="5. On the next day answer the cards again"/>
+<node COLOR="#111111" CREATED="1503890838619" ID="ID_215244696" MODIFIED="1503890845293" TEXT="6. On the next 2 days, try to remember the&#xa;trigger cards and write these the again"/>
+</node>
+</node>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1504228048696" ID="ID_587220344" MODIFIED="1504228191596" TEXT="ADHD (attention deficit/hyperactivity disorder)">
+<font NAME="SansSerif" SIZE="14"/>
+<node COLOR="#111111" CREATED="1504228063683" ID="ID_1604129884" MODIFIED="1504228107874" TEXT="Tracking and knowing your ADHD">
+<node COLOR="#111111" CREATED="1504228110276" ID="ID_1076639377" MODIFIED="1504228255451" TEXT="Put one check mark&#xa;every time you distracting"/>
+</node>
+<node COLOR="#111111" CREATED="1504228475418" ID="ID_1543832123" MODIFIED="1504228492175" TEXT="Create a list of your distractions">
+<node COLOR="#111111" CREATED="1504228498801" ID="ID_1495027176" MODIFIED="1504228561279" TEXT="For example: check email, think about something,&#xa;feel hungry, looking other thing"/>
+</node>
+<node COLOR="#111111" CREATED="1504228563150" ID="ID_1874963128" MODIFIED="1504228621772" TEXT="Convert this distractions in focus activities">
+<node COLOR="#111111" CREATED="1504228621775" ID="ID_521482450" MODIFIED="1504228710795" TEXT="For example:&#xa;if I want to check my mail o phone I put a checkmark in a paper,&#xa;if I want to looking other thing I write in my ToDo list,&#xa;if I feel hungry I drink water"/>
+</node>
+<node COLOR="#111111" CREATED="1504228713946" ID="ID_1667992637" MODIFIED="1504228816575" TEXT="NOTE:&#xa;This is like a meditation when you think or feel something&#xa;you check mark repeating 3 time for example&#xa;if I feel hungry I say Feeling, Feeling, Feeling&#xa;and return to the focus in the breath"/>
 </node>
 </node>
 </node>
